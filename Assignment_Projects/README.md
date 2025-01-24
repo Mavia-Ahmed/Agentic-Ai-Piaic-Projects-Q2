@@ -22,21 +22,7 @@ To run the projects, you will need:
 3. Open the Jupyter Notebook in your browser or upload it to Google Colab.
 
 ## Projects
-- Hello Gemini by LangChain
-
-### Description
-This project, **Hello Gemini**, is an introductory implementation of the LangChain framework. LangChain is a powerful tool for building applications powered by large language models (LLMs). The notebook demonstrates how to get started with LangChain by showcasing basic concepts and functionalities.
-
-### Key Features
-- **Introduction to LangChain:** Explains the core structure and utilities of LangChain.
-- **Hands-on Example:** Includes a step-by-step guide to implement a simple LangChain workflow.
-- **Exploration of Gemini Capabilities:** Highlights LangChain's potential for creating interactive AI-based workflows.
-
-### Technologies Used
-- **Python:** The primary programming language.
-- **LangChain:** A framework for building LLM-powered applications.
-- **Jupyter Notebook:** For writing and running the code interactively.
-
+- Hello Gemini by LangChain: This project, **Hello Gemini**, is an introductory implementation of the LangChain framework. LangChain is a powerful tool for building applications powered by large language models (LLMs). The notebook demonstrates how to get started with LangChain by showcasing basic concepts and functionalities.
 - rag:
 - function/tool calling
 - finetunning
