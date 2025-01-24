@@ -27,6 +27,7 @@ This project, **Hello Gemini**, is an introductory implementation of the LangCha
 - rag:
 This project demonstrates the implementation of a **Retrieval-Augmented Generation (RAG) System**, which combines retrieval-based approaches with large language models (LLMs) to produce contextually accurate and enriched responses. The notebook focuses on integrating external data retrieval with generative AI, showcasing how to build robust AI-powered solutions.
 - function/tool calling:
+This project demonstrates the implementation of **function calling** using the LangChain framework. Function calling enables language models to execute specific tasks programmatically by invoking functions dynamically based on user input. The notebook provides an interactive walkthrough of how to set up and utilize LangChain’s function-calling capabilities.
 - finetunning
 
 ## Contributing
