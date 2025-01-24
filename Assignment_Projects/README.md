@@ -26,7 +26,7 @@ To run the projects, you will need:
 This project, **Hello Gemini**, is an introductory implementation of the LangChain framework. LangChain is a powerful tool for building applications powered by large language models (LLMs). The notebook demonstrates how to get started with LangChain by showcasing basic concepts and functionalities.
 - rag:
 This project demonstrates the implementation of a **Retrieval-Augmented Generation (RAG) System**, which combines retrieval-based approaches with large language models (LLMs) to produce contextually accurate and enriched responses. The notebook focuses on integrating external data retrieval with generative AI, showcasing how to build robust AI-powered solutions.
-- function/tool calling
+- function/tool calling:
 - finetunning
 
 ## Contributing
