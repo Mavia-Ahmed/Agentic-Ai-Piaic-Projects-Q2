@@ -1,4 +1,4 @@
-# Agentic-AI-Piaic-Projects-Q2
+# 🤖 Agentic-AI-Piaic-Projects-Q2
 Welcome to the **Agentic AI - PIAIC Projects (Q2)** repository! This repository is dedicated to the projects and assignments completed as part of Quarter 2 of the **Presidential Initiative for Artificial Intelligence and Computing (PIAIC)** program. This repository contains advanced projects of Agentic Ai.
 
 ---
